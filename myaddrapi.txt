@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/gaoderby/cf/main/myfastip.txt
+https://raw.githubusercontent.com/gaoderby/cf/main/addressesapi.txt
+https://addressesapi.090227.xyz/ct
+https://addressesapi.090227.xyz/cmcc
+https://addressesapi.090227.xyz/CloudFlareYes
